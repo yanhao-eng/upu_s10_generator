@@ -3,9 +3,10 @@
 UPC S10 identifier generator 
 
 ## Usage
-
+```
 g = UpuS10Generator.new(service_indicator, sequence, country_code)
 s10 = g.generate
+```
 
 ## Contributing
 
